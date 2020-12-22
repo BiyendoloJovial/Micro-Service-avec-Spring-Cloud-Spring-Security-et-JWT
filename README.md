@@ -1,0 +1,2 @@
+# Micro-Service-avec-Spring-Cloud-Spring-Security-et-JWT
+Le but de ce projet est de mettre en place une application basée sur une architecture micro-service en prenant en considération les différentes approches possibles, tout en Facilitant la compréhension de la programmation Micro-service et l’utilisation des différents Framework et en met un accent sur la sécurité des Systèmes Distribué.  -Spring Boot -Spring cloud Gateway -Eureka Discovery -Open Feign Rest Client -Hystrix Dashboard -keycloak -JWT.
